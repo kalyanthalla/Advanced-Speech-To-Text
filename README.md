@@ -1,16 +1,20 @@
 # Advanced-Speech-To-Text
 
 ABSTRACT: 
-          Human voice synthesis technology is one from the fast-growing engineering technologies. It has a number of applications in different areas and provides potential benefits. Nearly 20% people of the world are suffering from various disabilities, many of them are blind or unable to use their hands effectively. The speech recognition systems in those particular cases provide a significant help to them, so that they can share information with people by operating computer through voice input. This project is designed and developed keeping that factor into mind, and a little effort is made to achieve this aim. Our project is capable to recognize the human speech and convert the input audio into text. 
+
+Human voice synthesis technology is one from the fast-growing engineering technologies. It has a number of applications in different areas and provides potential benefits. Nearly 20% people of the world are suffering from various disabilities, many of them are blind or unable to use their hands effectively. The speech recognition systems in those particular cases provide a significant help to them, so that they can share information with people by operating computer through voice input. This project is designed and developed keeping that factor into mind, and a little effort is made to achieve this aim. Our project is capable to recognize the human speech and convert the input audio into text. 
 
 EXISTING SYSTEM 
-          Currently, Google voice typing allows users to convert voice into text. Google Speech-to-text is a screen reader application developed by Google for its cloud system. 
+
+Currently, Google voice typing allows users to convert voice into text. Google Speech-to-text is a screen reader application developed by Google for its cloud system. 
 
 DISADVANTAGES 
-          Currently, Google voice typing and apple’s voice typing allows users to convert voice into text though again the google app runs only on android and apple’s run on IOS and MACOS which makes it bind to a particular platform and since both the apps are not open source it does not allow porting. 
+
+Currently, Google voice typing and apple’s voice typing allows users to convert voice into text though again the google app runs only on android and apple’s run on IOS and MACOS which makes it bind to a particular platform and since both the apps are not open source it does not allow porting. 
 
 PROPOSED SYSTEM 
-          Proposed system is an open source python script which can be ported to any platform required and integration of python script into apps is very feasible compared to Java and others. It an easy customizable code so that any further development on the project is lot easier. 
+
+Proposed system is an open source python script which can be ported to any platform required and integration of python script into apps is very feasible compared to Java and others. It an easy customizable code so that any further development on the project is lot easier. 
 
 ADVANTAGES:
 
