@@ -70,9 +70,9 @@ def stt():
         speakText(b)
         
         temp = str(random.randint(100,1000))
-        with open("storedText"+temp+".txt",'w') as f:
-            f.write(b)
-        
+        f = open("storedText"+temp+".txt",'w')
+        f.write(b)
+        f.close()
         print("Output Saved in storedText"+temp+".txt")
             
     except sr.UnknownValueError:
