@@ -1,4 +1,4 @@
-# Advanced-Speech-To-Text
+# Advanced-Speech-to-Text
 
 ABSTRACT: 
 
